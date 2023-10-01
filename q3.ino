@@ -14,7 +14,7 @@ int PWM;
 int previousError = 0;
 int integral = 0;
 
-float getDistance();
+float getDistance(); //get distance from ground
 
 void setup() 
 {
